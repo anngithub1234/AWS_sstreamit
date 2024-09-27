@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-streamit-dev-24a59-authRole",
+      "UnauthRoleArn": "arn:aws:iam::888577022191:role/amplify-streamit-dev-24a59-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::888577022191:role/amplify-streamit-dev-24a59-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-streamit-dev-24a59-deployment",
+      "UnauthRoleName": "amplify-streamit-dev-24a59-unauthRole",
+      "StackName": "amplify-streamit-dev-24a59",
+      "StackId": "arn:aws:cloudformation:ap-south-1:888577022191:stack/amplify-streamit-dev-24a59/07ab6720-71a9-11ef-845d-0ad632fca6ad",
+      "AmplifyAppId": "d2tkgc32d4s26k"
+    },
+    "categories": {
+      "auth": {
+        "streamitdb5e1653": {}
+      }
+    }
+  }
+}
